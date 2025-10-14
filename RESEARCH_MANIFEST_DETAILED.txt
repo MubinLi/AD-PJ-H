@@ -1,0 +1,786 @@
+阿尔茨海默病研究成果详细清单
+============================================================
+生成时间: 2025-10-14 10:53:08
+总目录: /content/AD_Research_Complete_Package_20251014_105229
+
+
+01 Images Visualizations:
+文件数量: 127, 总大小: 50.96 MB
+--------------------------------------------------
+  biomarker_efficacy_scatter.png                         2.02 MB
+    原路径: biomarker_efficacy_scatter.png
+  stage_specific_treatment_analysis.png                  1.76 MB
+    原路径: stage_specific_treatment_analysis.png
+  ad_mechanism_with_drug_targets.png                     1.22 MB
+    原路径: ad_mechanism_with_drug_targets.png
+  ad_mechanism_integration.png                           1.11 MB
+    原路径: ad_mechanism_integration.png
+  pj_hypothesis_validation.png                           1.07 MB
+    原路径: pj_hypothesis_validation.png
+  calcium_multi_threshold_analysis.png                   1.00 MB
+    原路径: calcium_multi_threshold_analysis.png
+  rmsd_trajectories.png                                  1.00 MB
+    原路径: ad_data/rmsd_trajectories.png
+  calcium_threshold_analysis.png                         0.99 MB
+    原路径: calcium_threshold_analysis.png
+  admet_radar.png                                        0.96 MB
+    原路径: ad_data/admet_radar.png
+  virtual_cell_treatment_effects_enhanced.png            0.94 MB
+    原路径: virtual_cell_treatment_effects_enhanced.png
+  optimized_early_intervention_analysis.png              0.89 MB
+    原路径: optimized_early_intervention_analysis.png
+  unified_ad_mechanism_network.png                       0.81 MB
+    原路径: unified_ad_mechanism_network.png
+  biomarker_trajectories.png                             0.79 MB
+    原路径: biomarker_trajectories.png
+  key_pathological_indicators.png                        0.76 MB
+    原路径: key_pathological_indicators.png
+  treatment_efficacy_radar_enhanced.png                  0.74 MB
+    原路径: treatment_efficacy_radar_enhanced.png
+  tau_phosphorylation_diffusion_optimized.png            0.74 MB
+    原路径: tau_phosphorylation_diffusion_optimized.png
+  virtual_patient_analysis_english.png                   0.72 MB
+    原路径: virtual_patient_analysis_english.png
+  comprehensive_analysis_summary.png                     0.69 MB
+    原路径: comprehensive_analysis_summary.png
+  pja_drug_target_pathway_network.png                    0.67 MB
+    原路径: pja_drug_target_pathway_network.png
+  comprehensive_analysis_enhanced.png                    0.64 MB
+    原路径: comprehensive_analysis_enhanced.png
+  comprehensive_analysis.png                             0.63 MB
+    原路径: ad_data/comprehensive_analysis.png
+  abeta_validation_final.png                             0.62 MB
+    原路径: abeta_validation_final.png
+  GSE33000_data_quality_assessment.png                   0.60 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE33000_data_quality_assessment.png
+  GSE44770_data_quality_assessment.png                   0.60 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE44770_data_quality_assessment.png
+  clustering_analysis.png                                0.60 MB
+    原路径: drive/MyDrive/gse44770_comprehensive_results/clustering_analysis.png
+  drug_properties_radar.png                              0.58 MB
+    原路径: drug_properties_radar.png
+  tsne_clustering_pj_genes.png                           0.57 MB
+    原路径: drive/MyDrive/gse44770_pj_results/tsne_clustering_pj_genes.png
+  detailed_calcium_analysis.png                          0.57 MB
+    原路径: detailed_calcium_analysis.png
+  property_by_design_concept.png                         0.56 MB
+    原路径: property_by_design_concept.png
+  comparative_drug_properties_radar.png                  0.55 MB
+    原路径: comparative_drug_properties_radar.png
+  drug_efficacy_radar.png                                0.55 MB
+    原路径: drug_efficacy_radar.png
+  disease_progression_curves.png                         0.55 MB
+    原路径: disease_progression_curves.png
+  GSE44770_ml_validation.png                             0.55 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE44770_ml_validation.png
+  gene_network.png                                       0.53 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/gene_network.png
+  ad_subtypes.png                                        0.53 MB
+    原路径: ad_subtypes.png
+  comprehensive_analysis_summary_1.png                   0.52 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/comprehensive_analysis_summary.png
+  GSE44770_signature_expansion_analysis.png              0.50 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE44770_signature_expansion_analysis.png
+  synergy_analysis_results.png                           0.48 MB
+    原路径: synergy_analysis_results.png
+  GSE33000_ml_validation.png                             0.48 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE33000_ml_validation.png
+  GSE33000_pathway_pre_analysis.png                      0.46 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE33000_pathway_pre_analysis.png
+  PJA-01_efficacy_radar_t3.0.png                         0.45 MB
+    原路径: PJA-01_efficacy_radar_t3.0.png
+  GSE44770_pathway_pre_analysis.png                      0.45 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE44770_pathway_pre_analysis.png
+  Combination_PJA02_PJA03_efficacy_radar_t4.2.png        0.45 MB
+    原路径: Combination_PJA02_PJA03_efficacy_radar_t4.2.png
+  patient_distribution_pie_charts.png                    0.44 MB
+    原路径: patient_distribution_pie_charts.png
+  calcium_oscillation_comparison.png                     0.44 MB
+    原路径: calcium_oscillation_comparison.png
+  PJA-03_efficacy_radar_t4.2.png                         0.43 MB
+    原路径: PJA-03_efficacy_radar_t4.2.png
+  comprehensive_results_summary.png                      0.42 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/comprehensive_results_summary.png
+  PJA-02_efficacy_radar_t4.2.png                         0.41 MB
+    原路径: PJA-02_efficacy_radar_t4.2.png
+  GSE33000_pj_score_analysis.png                         0.40 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE33000_pj_score_analysis.png
+  final_treatment_efficacy.png                           0.39 MB
+    原路径: final_treatment_efficacy.png
+  PJA-04_efficacy_radar_t5.5.png                         0.39 MB
+    原路径: PJA-04_efficacy_radar_t5.5.png
+  pj_hypothesis_summary.png                              0.39 MB
+    原路径: pj_hypothesis_summary.png
+  ad_biomarker_progression.png                           0.39 MB
+    原路径: ad_biomarker_progression.png
+  GSE33000_Network_Propagation_based_validation.png      0.38 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE33000_Network_Propagation_based_validation.png
+  GSE44770_pj_score_analysis.png                         0.38 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE44770_pj_score_analysis.png
+  virtual_patient_study_summary.png                      0.37 MB
+    原路径: virtual_patient_study_summary.png
+  GSE33000_Correlation_based_validation.png              0.37 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE33000_Correlation_based_validation.png
+  admet_correlation_matrix.png                           0.36 MB
+    原路径: ad_data/admet_correlation_matrix.png
+  GSE44770_Network_Propagation_based_validation.png      0.36 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE44770_Network_Propagation_based_validation.png
+  stage_specific_efficacy.png                            0.35 MB
+    原路径: stage_specific_efficacy.png
+  PJA-04_properties_radar.png                            0.34 MB
+    原路径: PJA-04_properties_radar.png
+  GSE44770_Correlation_based_validation.png              0.34 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE44770_Correlation_based_validation.png
+  patient_characteristics_english.png                    0.34 MB
+    原路径: patient_characteristics_english.png
+  admet_property_distribution.png                        0.34 MB
+    原路径: ad_data/admet_property_distribution.png
+  efficacy_heatmap.png                                   0.33 MB
+    原路径: efficacy_heatmap.png
+  pja_drug_properties.png                                0.32 MB
+    原路径: pja_drug_properties.png
+  pj_hypothesis_gene_network.png                         0.32 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/pj_hypothesis_gene_network.png
+  PJA-03_properties_radar.png                            0.31 MB
+    原路径: PJA-03_properties_radar.png
+  advanced_comparison_analysis.png                       0.31 MB
+    原路径: advanced_comparison_analysis.png
+  PJA-02_properties_radar.png                            0.28 MB
+    原路径: PJA-02_properties_radar.png
+  calcium_oscillation_detailed.png                       0.28 MB
+    原路径: calcium_oscillation_detailed.png
+  statistical_significance_chart.png                     0.27 MB
+    原路径: statistical_significance_chart.png
+  dose_effect_curves.png                                 0.27 MB
+    原路径: dose_effect_curves.png
+  biomarker_roc_curves.png                               0.27 MB
+    原路径: biomarker_roc_curves.png
+  PJA-01_properties_radar.png                            0.27 MB
+    原路径: PJA-01_properties_radar.png
+  biomarker_correlation_heatmap.png                      0.25 MB
+    原路径: biomarker_correlation_heatmap.png
+  mechanism_validation_summary.png                       0.25 MB
+    原路径: mechanism_validation_summary.png
+  md_simulation_results.png                              0.24 MB
+    原路径: md_simulation_results.png
+  ad_critical_network.png                                0.23 MB
+    原路径: ad_critical_network.png
+  functional_group_property_effects.png                  0.22 MB
+    原路径: functional_group_property_effects.png
+  pja_property_correlation.png                           0.21 MB
+    原路径: pja_property_correlation.png
+  all_combinations_comparison.png                        0.21 MB
+    原路径: all_combinations_comparison.png
+  treatment_timing_optimization.png                      0.21 MB
+    原路径: treatment_timing_optimization.png
+  pja_functional_group_heatmap.png                       0.21 MB
+    原路径: pja_functional_group_heatmap.png
+  gse44770_pca_analysis_pj.png                           0.19 MB
+    原路径: drive/MyDrive/gse44770_pj_results/gse44770_pca_analysis_pj.png
+  GSE33000_bubble_plot.png                               0.19 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE33000_bubble_plot.png
+  GSE44770_bubble_plot.png                               0.19 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE44770_bubble_plot.png
+  personalized_treatment_recommendations_english.png     0.19 MB
+    原路径: personalized_treatment_recommendations_english.png
+  network_centrality_analysis.png                        0.18 MB
+    原路径: network_centrality_analysis.png
+  GSE33000_network_propagation.png                       0.17 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE33000_network_propagation.png
+  prediction_model.png                                   0.17 MB
+    原路径: prediction_model.png
+  synergy_heatmap.png                                    0.17 MB
+    原路径: synergy_heatmap.png
+  pca_analysis.png                                       0.17 MB
+    原路径: drive/MyDrive/gse44770_comprehensive_results/pca_analysis.png
+  biomarker_correlations.png                             0.17 MB
+    原路径: biomarker_correlations.png
+  additional_synergy_analysis.png                        0.17 MB
+    原路径: additional_synergy_analysis.png
+  GSE44770_network_propagation.png                       0.16 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE44770_network_propagation.png
+  treatment_timing_heatmap.png                           0.16 MB
+    原路径: treatment_timing_heatmap.png
+  functional_module_distribution.png                     0.16 MB
+    原路径: functional_module_distribution.png
+  critical_point_delay_analysis.png                      0.16 MB
+    原路径: critical_point_delay_analysis.png
+  GSE33000_gene_mapping_visualization.png                0.15 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE33000_gene_mapping_visualization.png
+  GSE44770_gene_mapping_visualization.png                0.15 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE44770_gene_mapping_visualization.png
+  network_features.png                                   0.15 MB
+    原路径: network_features.png
+  bliss_vs_loewe.png                                     0.14 MB
+    原路径: bliss_vs_loewe.png
+  pj_gene_availability_comparison.png                    0.14 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/pj_gene_availability_comparison.png
+  synergy_by_category.png                                0.13 MB
+    原路径: synergy_by_category.png
+  top_combinations.png                                   0.13 MB
+    原路径: top_combinations.png
+  drug_target_heatmap.png                                0.13 MB
+    原路径: ad_data/drug_target_heatmap.png
+  docking_distance_distribution.png                      0.13 MB
+    原路径: docking_distance_distribution.png
+  correlation_matrix_1.png                               0.12 MB
+    原路径: ad_data/correlation_matrix.png
+  multi_parameter_optimization.png                       0.12 MB
+    原路径: ad_data/multi_parameter_optimization.png
+  binding_energies.png                                   0.12 MB
+    原路径: ad_data/binding_energies.png
+  biomarker_auc.png                                      0.12 MB
+    原路径: biomarker_auc.png
+  membrane_potential_correlations.png                    0.11 MB
+    原路径: membrane_potential_correlations.png
+  synergy_distribution.png                               0.11 MB
+    原路径: synergy_distribution.png
+  calcium_parameter_correlation.png                      0.11 MB
+    原路径: calcium_parameter_correlation.png
+  correlation_matrix.png                                 0.11 MB
+    原路径: correlation_matrix.png
+  drug_efficacy_comparison.png                           0.11 MB
+    原路径: ad_data/drug_efficacy_comparison.png
+  drug_distribution_by_stage.png                         0.11 MB
+    原路径: drug_distribution_by_stage.png
+  parameter_sensitivity_analysis.png                     0.10 MB
+    原路径: parameter_sensitivity_analysis.png
+  cluster_gene_expression.png                            0.10 MB
+    原路径: drive/MyDrive/gse44770_pj_results/cluster_gene_expression.png
+  GSE33000_NetworkPropagation_pj_score_comparison.png     0.10 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE33000_NetworkPropagation_pj_score_comparison.png
+  target_distribution.png                                0.09 MB
+    原路径: target_distribution.png
+  hbond_stability.png                                    0.09 MB
+    原路径: ad_data/hbond_stability.png
+  GSE33000_pj_score_comparison.png                       0.08 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE33000_pj_score_comparison.png
+  GSE44770_NetworkPropagation_pj_score_comparison.png     0.08 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE44770_NetworkPropagation_pj_score_comparison.png
+  GSE44770_pj_score_comparison.png                       0.06 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE44770_pj_score_comparison.png
+  comprehensive_analysis_summary.pdf                     0.04 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/comprehensive_analysis_summary.pdf
+
+02 Data Analysis:
+文件数量: 31, 总大小: 751.59 MB
+--------------------------------------------------
+  GSE33000_raw_data.txt                                463.18 MB
+    原路径: drive/MyDrive/RNA_seq_Datasets/GSE33000_raw_data.txt
+  GSE44770_originalDataFile_PFC.txt                    223.51 MB
+    原路径: drive/MyDrive/RNA_seq_Datasets/GSE44770_originalDataFile_PFC.txt
+  mnist_train_small.csv                                 34.83 MB
+    原路径: sample_data/mnist_train_small.csv
+  mnist_test.csv                                        17.44 MB
+    原路径: sample_data/mnist_test.csv
+  GSE44770.top.table.tsv                                 3.32 MB
+    原路径: GSE44770.top.table.tsv
+  GSE33000.top.table.tsv                                 3.29 MB
+    原路径: GSE33000.top.table.tsv
+  aligned_treatment_outcomes.csv                         1.68 MB
+    原路径: aligned_treatment_outcomes.csv
+  california_housing_train.csv                           1.63 MB
+    原路径: sample_data/california_housing_train.csv
+  enhanced_treatment_outcomes.csv                        1.19 MB
+    原路径: enhanced_treatment_outcomes.csv
+  aligned_virtual_patients_with_recommendations.csv      0.57 MB
+    原路径: aligned_virtual_patients_with_recommendations.csv
+  enhanced_patients_with_recommendations.csv             0.38 MB
+    原路径: enhanced_patients_with_recommendations.csv
+  california_housing_test.csv                            0.29 MB
+    原路径: sample_data/california_housing_test.csv
+  pca_results.csv                                        0.09 MB
+    原路径: drive/MyDrive/gse44770_comprehensive_results/pca_results.csv
+  gse44770_pca_results.csv                               0.04 MB
+    原路径: drive/MyDrive/gse44770_pj_results/gse44770_pca_results.csv
+  gse33000_pj_scores.csv                                 0.04 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/gse33000_pj_scores.csv
+  gse33000_np_scores.csv                                 0.04 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/gse33000_np_scores.csv
+  gse44770_pj_scores.csv                                 0.01 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/gse44770_pj_scores.csv
+  gse44770_np_scores.csv                                 0.01 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/gse44770_np_scores.csv
+  GSE44770_feature_importance.csv                        0.01 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE44770_feature_importance.csv
+  GSE33000_feature_importance.csv                        0.01 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE33000_feature_importance.csv
+  sample_clusters.csv                                    0.01 MB
+    原路径: drive/MyDrive/gse44770_pj_results/sample_clusters.csv
+  cluster_assignments.csv                                0.01 MB
+    原路径: drive/MyDrive/gse44770_comprehensive_results/cluster_assignments.csv
+  treatment_efficacy_data.csv                            0.00 MB
+    原路径: treatment_efficacy_data.csv
+  pj_expanded_signature.txt                              0.00 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/pj_expanded_signature.txt
+  analysis_summary_1.csv                                 0.00 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/analysis_summary.csv
+  descriptive_statistics.csv                             0.00 MB
+    原路径: descriptive_statistics.csv
+  detailed_results.csv                                   0.00 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/detailed_results.csv
+  gse44770_pj_analysis_summary.csv                       0.00 MB
+    原路径: drive/MyDrive/gse44770_pj_results/gse44770_pj_analysis_summary.csv
+  analysis_summary.csv                                   0.00 MB
+    原路径: drive/MyDrive/gse44770_comprehensive_results/analysis_summary.csv
+  network_propagation_genes.txt                          0.00 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/network_propagation_genes.txt
+  pj_validation_index.csv                                0.00 MB
+    原路径: drive/MyDrive/gse44770_pj_results/pj_validation_index.csv
+
+03 Models Results:
+文件数量: 26, 总大小: 41.72 MB
+--------------------------------------------------
+  aligned_virtual_patient_analysis_results.pkl          22.66 MB
+    原路径: aligned_virtual_patient_analysis_results.pkl
+  pj_hypothesis_virtual_patients.pkl                    10.57 MB
+    原路径: pj_hypothesis_virtual_patients.pkl
+  virtual_patients_study.pkl                             5.64 MB
+    原路径: virtual_patients_study.pkl
+  enhanced_pj_hypothesis_results.pkl                     0.77 MB
+    原路径: enhanced_pj_hypothesis_results.pkl
+  stage_specific_treatment_analysis.pkl                  0.46 MB
+    原路径: stage_specific_treatment_analysis.pkl
+  enhanced_virtual_cell_analysis_results.pkl             0.42 MB
+    原路径: enhanced_virtual_cell_analysis_results.pkl
+  optimized_early_intervention_analysis.pkl              0.29 MB
+    原路径: optimized_early_intervention_analysis.pkl
+  comprehensive_virtual_cell_analysis.pkl                0.25 MB
+    原路径: comprehensive_virtual_cell_analysis.pkl
+  virtual_patient_analysis_results.pkl                   0.22 MB
+    原路径: virtual_patient_analysis_results.pkl
+  pja_molecular_docking_md_results.pkl                   0.19 MB
+    原路径: ad_data/pja_molecular_docking_md_results.pkl
+  ad_mechanism_integration.pkl                           0.10 MB
+    原路径: ad_mechanism_integration.pkl
+  calcium_oscillation_preliminary.pkl                    0.04 MB
+    原路径: calcium_oscillation_preliminary.pkl
+  abeta_hydrophobicity_accurate.pkl                      0.03 MB
+    原路径: abeta_hydrophobicity_accurate.pkl
+  ad_mechanism_modeling.pkl                              0.02 MB
+    原路径: ad_mechanism_modeling.pkl
+  ad_network_simplified.pkl                              0.01 MB
+    原路径: ad_network_simplified.pkl
+  pja_mechanism_analysis_step1.pkl                       0.01 MB
+    原路径: pja_mechanism_analysis_step1.pkl
+  pja_functional_group_analysis_step3.pkl                0.01 MB
+    原路径: pja_functional_group_analysis_step3.pkl
+  unified_ad_mechanism.pkl                               0.01 MB
+    原路径: unified_ad_mechanism.pkl
+  pja_design_analysis_step2.pkl                          0.01 MB
+    原路径: pja_design_analysis_step2.pkl
+  pja_systems_biology_admet.pkl                          0.00 MB
+    原路径: ad_data/pja_systems_biology_admet.pkl
+  calcium_oscillation_multi_threshold.pkl                0.00 MB
+    原路径: calcium_oscillation_multi_threshold.pkl
+  calcium_oscillation_threshold.pkl                      0.00 MB
+    原路径: calcium_oscillation_threshold.pkl
+  abeta_conformational_modeling_final.pkl                0.00 MB
+    原路径: abeta_conformational_modeling_final.pkl
+  ad_mechanism_final_validated.pkl                       0.00 MB
+    原路径: ad_mechanism_final_validated.pkl
+  ad_mechanism_final_params.pkl                          0.00 MB
+    原路径: ad_mechanism_final_params.pkl
+  mitochondrial_tau_mechanism_final.pkl                  0.00 MB
+    原路径: mitochondrial_tau_mechanism_final.pkl
+
+04 Bioinformatics:
+文件数量: 19, 总大小: 7.98 MB
+--------------------------------------------------
+  Aβ42_oligomer.pdb                                      1.46 MB
+    原路径: Aβ42_oligomer.pdb
+  Abeta42_oligomer_2BEG.pdb                              1.46 MB
+    原路径: abeta_structures/Abeta42_oligomer_2BEG.pdb
+  Abeta40_monomer_2LFM.pdb                               0.94 MB
+    原路径: abeta_structures/Abeta40_monomer_2LFM.pdb
+  TREM2.pdb                                              0.52 MB
+    原路径: TREM2.pdb
+  TREM2_6B8O.pdb                                         0.52 MB
+    原路径: abeta_structures/TREM2_6B8O.pdb
+  Abeta42_monomer_1IYT.pdb                               0.51 MB
+    原路径: abeta_structures/Abeta42_monomer_1IYT.pdb
+  6BMT.pdb                                               0.48 MB
+    原路径: ad_data/6BMT.pdb
+  DHHC3_cleaned.pdb                                      0.40 MB
+    原路径: ad_data/DHHC3_cleaned.pdb
+  4Z30.pdb                                               0.38 MB
+    原路径: ad_data/4Z30.pdb
+  3GSL.pdb                                               0.28 MB
+    原路径: ad_data/3GSL.pdb
+  7q4b.pdb                                               0.23 MB
+    原路径: 7q4b.pdb
+  PSD95_cleaned.pdb                                      0.22 MB
+    原路径: ad_data/PSD95_cleaned.pdb
+  3FQE.pdb                                               0.21 MB
+    原路径: ad_data/3FQE.pdb
+  MCU_cleaned.pdb                                        0.17 MB
+    原路径: ad_data/MCU_cleaned.pdb
+  Syk_cleaned.pdb                                        0.17 MB
+    原路径: ad_data/Syk_cleaned.pdb
+  PJA-02_ligand.pdb                                      0.01 MB
+    原路径: ad_data/PJA-02_ligand.pdb
+  PJA-04_ligand.pdb                                      0.01 MB
+    原路径: ad_data/PJA-04_ligand.pdb
+  PJA-01_ligand.pdb                                      0.01 MB
+    原路径: ad_data/PJA-01_ligand.pdb
+  PJA-03_ligand.pdb                                      0.00 MB
+    原路径: ad_data/PJA-03_ligand.pdb
+
+05 Drug Design:
+文件数量: 50, 总大小: 12.80 MB
+--------------------------------------------------
+  treatment_efficacy_radar_enhanced.png                  0.74 MB
+    原路径: treatment_efficacy_radar_enhanced.png
+  treatment_efficacy_radar_enhanced_1.png                0.74 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/treatment_efficacy_radar_enhanced.png
+  drug_properties_radar.png                              0.58 MB
+    原路径: drug_properties_radar.png
+  drug_properties_radar_1.png                            0.58 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/drug_properties_radar.png
+  drug_efficacy_radar.png                                0.55 MB
+    原路径: drug_efficacy_radar.png
+  drug_efficacy_radar_1.png                              0.55 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/drug_efficacy_radar.png
+  synergy_analysis_results.png                           0.48 MB
+    原路径: synergy_analysis_results.png
+  synergy_analysis_results_1.png                         0.48 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/synergy_analysis_results.png
+  PJA-01_efficacy_radar_t3.0.png                         0.45 MB
+    原路径: PJA-01_efficacy_radar_t3.0.png
+  PJA-01_efficacy_radar_t3.0_1.png                       0.45 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/PJA-01_efficacy_radar_t3.0.png
+  PJA-03_efficacy_radar_t4.2.png                         0.43 MB
+    原路径: PJA-03_efficacy_radar_t4.2.png
+  PJA-03_efficacy_radar_t4.2_1.png                       0.43 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/PJA-03_efficacy_radar_t4.2.png
+  PJA-02_efficacy_radar_t4.2.png                         0.41 MB
+    原路径: PJA-02_efficacy_radar_t4.2.png
+  PJA-02_efficacy_radar_t4.2_1.png                       0.41 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/PJA-02_efficacy_radar_t4.2.png
+  PJA-04_efficacy_radar_t5.5.png                         0.39 MB
+    原路径: PJA-04_efficacy_radar_t5.5.png
+  PJA-04_efficacy_radar_t5.5_1.png                       0.39 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/PJA-04_efficacy_radar_t5.5.png
+  PJA-04_properties_radar.png                            0.34 MB
+    原路径: PJA-04_properties_radar.png
+  PJA-04_properties_radar_1.png                          0.34 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/PJA-04_properties_radar.png
+  PJA-03_properties_radar.png                            0.31 MB
+    原路径: PJA-03_properties_radar.png
+  PJA-03_properties_radar_1.png                          0.31 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/PJA-03_properties_radar.png
+  PJA-02_properties_radar.png                            0.28 MB
+    原路径: PJA-02_properties_radar.png
+  PJA-02_properties_radar_1.png                          0.28 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/PJA-02_properties_radar.png
+  PJA-01_properties_radar.png                            0.27 MB
+    原路径: PJA-01_properties_radar.png
+  PJA-01_properties_radar_1.png                          0.27 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/PJA-01_properties_radar.png
+  treatment_timing_optimization.png                      0.21 MB
+    原路径: treatment_timing_optimization.png
+  treatment_timing_optimization_1.png                    0.21 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/treatment_timing_optimization.png
+  synergy_heatmap.png                                    0.17 MB
+    原路径: synergy_heatmap.png
+  synergy_heatmap_1.png                                  0.17 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/synergy_heatmap.png
+  treatment_timing_heatmap.png                           0.16 MB
+    原路径: treatment_timing_heatmap.png
+  treatment_timing_heatmap_1.png                         0.16 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/treatment_timing_heatmap.png
+  synergy_by_category.png                                0.13 MB
+    原路径: synergy_by_category.png
+  synergy_by_category_1.png                              0.13 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/synergy_by_category.png
+  drug_target_heatmap.png                                0.13 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/drug_target_heatmap.png
+  drug_target_heatmap_1.png                              0.13 MB
+    原路径: ad_data/drug_target_heatmap.png
+  synergy_distribution.png                               0.11 MB
+    原路径: synergy_distribution.png
+  synergy_distribution_1.png                             0.11 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/synergy_distribution.png
+  drug_efficacy_comparison.png                           0.11 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/drug_efficacy_comparison.png
+  drug_efficacy_comparison_1.png                         0.11 MB
+    原路径: ad_data/drug_efficacy_comparison.png
+  drug_distribution_by_stage.png                         0.11 MB
+    原路径: drug_distribution_by_stage.png
+  drug_distribution_by_stage_1.png                       0.11 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/drug_distribution_by_stage.png
+  PJA-02_ligand.pdb                                      0.01 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/04_Bioinformatics/PJA-02_ligand.pdb
+  PJA-02_ligand_1.pdb                                    0.01 MB
+    原路径: ad_data/PJA-02_ligand.pdb
+  PJA-04_ligand.pdb                                      0.01 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/04_Bioinformatics/PJA-04_ligand.pdb
+  PJA-04_ligand_1.pdb                                    0.01 MB
+    原路径: ad_data/PJA-04_ligand.pdb
+  PJA-01_ligand.pdb                                      0.01 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/04_Bioinformatics/PJA-01_ligand.pdb
+  PJA-01_ligand_1.pdb                                    0.01 MB
+    原路径: ad_data/PJA-01_ligand.pdb
+  PJA-03_ligand.pdb                                      0.00 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/04_Bioinformatics/PJA-03_ligand.pdb
+  PJA-03_ligand_1.pdb                                    0.00 MB
+    原路径: ad_data/PJA-03_ligand.pdb
+  treatment_efficacy_data.csv                            0.00 MB
+    原路径: treatment_efficacy_data.csv
+  treatment_efficacy_data_1.csv                          0.00 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/02_Data_Analysis/treatment_efficacy_data.csv
+
+06 Virtual Patients:
+文件数量: 14, 总大小: 17.37 MB
+--------------------------------------------------
+  virtual_patients_study.pkl                             5.64 MB
+    原路径: virtual_patients_study.pkl
+  virtual_patients_study_1.pkl                           5.64 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/03_Models_Results/virtual_patients_study.pkl
+  virtual_cell_treatment_effects_enhanced.png            0.94 MB
+    原路径: virtual_cell_treatment_effects_enhanced.png
+  virtual_cell_treatment_effects_enhanced_1.png          0.94 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/virtual_cell_treatment_effects_enhanced.png
+  virtual_patient_analysis_english.png                   0.72 MB
+    原路径: virtual_patient_analysis_english.png
+  virtual_patient_analysis_english_1.png                 0.72 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/virtual_patient_analysis_english.png
+  patient_distribution_pie_charts.png                    0.44 MB
+    原路径: patient_distribution_pie_charts.png
+  patient_distribution_pie_charts_1.png                  0.44 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/patient_distribution_pie_charts.png
+  virtual_patient_study_summary.png                      0.37 MB
+    原路径: virtual_patient_study_summary.png
+  virtual_patient_study_summary_1.png                    0.37 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/virtual_patient_study_summary.png
+  patient_characteristics_english.png                    0.34 MB
+    原路径: patient_characteristics_english.png
+  patient_characteristics_english_1.png                  0.34 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/patient_characteristics_english.png
+  virtual_patient_analysis_results.pkl                   0.22 MB
+    原路径: virtual_patient_analysis_results.pkl
+  virtual_patient_analysis_results_1.pkl                 0.22 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/03_Models_Results/virtual_patient_analysis_results.pkl
+
+07 Mechanism Analysis:
+文件数量: 30, 总大小: 13.49 MB
+--------------------------------------------------
+  biomarker_efficacy_scatter.png                         2.02 MB
+    原路径: biomarker_efficacy_scatter.png
+  biomarker_efficacy_scatter_1.png                       2.02 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/biomarker_efficacy_scatter.png
+  calcium_multi_threshold_analysis.png                   1.00 MB
+    原路径: calcium_multi_threshold_analysis.png
+  calcium_multi_threshold_analysis_1.png                 1.00 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/calcium_multi_threshold_analysis.png
+  calcium_threshold_analysis.png                         0.99 MB
+    原路径: calcium_threshold_analysis.png
+  calcium_threshold_analysis_1.png                       0.99 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/calcium_threshold_analysis.png
+  biomarker_trajectories.png                             0.79 MB
+    原路径: biomarker_trajectories.png
+  biomarker_trajectories_1.png                           0.79 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/biomarker_trajectories.png
+  calcium_oscillation_comparison.png                     0.44 MB
+    原路径: calcium_oscillation_comparison.png
+  calcium_oscillation_comparison_1.png                   0.44 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/calcium_oscillation_comparison.png
+  calcium_oscillation_detailed.png                       0.28 MB
+    原路径: calcium_oscillation_detailed.png
+  calcium_oscillation_detailed_1.png                     0.28 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/calcium_oscillation_detailed.png
+  biomarker_roc_curves.png                               0.27 MB
+    原路径: biomarker_roc_curves.png
+  biomarker_roc_curves_1.png                             0.27 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/biomarker_roc_curves.png
+  biomarker_correlation_heatmap.png                      0.25 MB
+    原路径: biomarker_correlation_heatmap.png
+  biomarker_correlation_heatmap_1.png                    0.25 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/biomarker_correlation_heatmap.png
+  mechanism_validation_summary.png                       0.25 MB
+    原路径: mechanism_validation_summary.png
+  mechanism_validation_summary_1.png                     0.25 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/mechanism_validation_summary.png
+  biomarker_correlations.png                             0.17 MB
+    原路径: biomarker_correlations.png
+  biomarker_correlations_1.png                           0.17 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/biomarker_correlations.png
+  biomarker_auc.png                                      0.12 MB
+    原路径: biomarker_auc.png
+  biomarker_auc_1.png                                    0.12 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/biomarker_auc.png
+  calcium_parameter_correlation.png                      0.11 MB
+    原路径: calcium_parameter_correlation.png
+  calcium_parameter_correlation_1.png                    0.11 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/calcium_parameter_correlation.png
+  calcium_oscillation_preliminary.pkl                    0.04 MB
+    原路径: calcium_oscillation_preliminary.pkl
+  calcium_oscillation_preliminary_1.pkl                  0.04 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/03_Models_Results/calcium_oscillation_preliminary.pkl
+  calcium_oscillation_multi_threshold.pkl                0.00 MB
+    原路径: calcium_oscillation_multi_threshold.pkl
+  calcium_oscillation_multi_threshold_1.pkl              0.00 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/03_Models_Results/calcium_oscillation_multi_threshold.pkl
+  calcium_oscillation_threshold.pkl                      0.00 MB
+    原路径: calcium_oscillation_threshold.pkl
+  calcium_oscillation_threshold_1.pkl                    0.00 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/03_Models_Results/calcium_oscillation_threshold.pkl
+
+08 Validation Results:
+文件数量: 76, 总大小: 1426.06 MB
+--------------------------------------------------
+  GSE33000_raw_data.txt                                463.18 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/02_Data_Analysis/GSE33000_raw_data.txt
+  GSE33000_raw_data_1.txt                              463.18 MB
+    原路径: drive/MyDrive/RNA_seq_Datasets/GSE33000_raw_data.txt
+  GSE44770_originalDataFile_PFC.txt                    223.51 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/02_Data_Analysis/GSE44770_originalDataFile_PFC.txt
+  GSE44770_originalDataFile_PFC_1.txt                  223.51 MB
+    原路径: drive/MyDrive/RNA_seq_Datasets/GSE44770_originalDataFile_PFC.txt
+  pj_hypothesis_virtual_patients.pkl                    10.57 MB
+    原路径: pj_hypothesis_virtual_patients.pkl
+  pj_hypothesis_virtual_patients_1.pkl                  10.57 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/03_Models_Results/pj_hypothesis_virtual_patients.pkl
+  GSE44770.top.table.tsv                                 3.32 MB
+    原路径: GSE44770.top.table.tsv
+  GSE44770.top.table_1.tsv                               3.32 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/02_Data_Analysis/GSE44770.top.table.tsv
+  GSE33000.top.table.tsv                                 3.29 MB
+    原路径: GSE33000.top.table.tsv
+  GSE33000.top.table_1.tsv                               3.29 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/02_Data_Analysis/GSE33000.top.table.tsv
+  pj_hypothesis_validation.png                           1.07 MB
+    原路径: pj_hypothesis_validation.png
+  pj_hypothesis_validation_1.png                         1.07 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/pj_hypothesis_validation.png
+  GSE33000_data_quality_assessment.png                   0.60 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/GSE33000_data_quality_assessment.png
+  GSE33000_data_quality_assessment_1.png                 0.60 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE33000_data_quality_assessment.png
+  GSE44770_data_quality_assessment.png                   0.60 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/GSE44770_data_quality_assessment.png
+  GSE44770_data_quality_assessment_1.png                 0.60 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE44770_data_quality_assessment.png
+  GSE44770_ml_validation.png                             0.55 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/GSE44770_ml_validation.png
+  GSE44770_ml_validation_1.png                           0.55 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE44770_ml_validation.png
+  GSE44770_signature_expansion_analysis.png              0.50 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/GSE44770_signature_expansion_analysis.png
+  GSE44770_signature_expansion_analysis_1.png            0.50 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE44770_signature_expansion_analysis.png
+  GSE33000_ml_validation.png                             0.48 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/GSE33000_ml_validation.png
+  GSE33000_ml_validation_1.png                           0.48 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE33000_ml_validation.png
+  GSE33000_pathway_pre_analysis.png                      0.46 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/GSE33000_pathway_pre_analysis.png
+  GSE33000_pathway_pre_analysis_1.png                    0.46 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE33000_pathway_pre_analysis.png
+  GSE44770_pathway_pre_analysis.png                      0.45 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/GSE44770_pathway_pre_analysis.png
+  GSE44770_pathway_pre_analysis_1.png                    0.45 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE44770_pathway_pre_analysis.png
+  GSE33000_pj_score_analysis.png                         0.40 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/GSE33000_pj_score_analysis.png
+  GSE33000_pj_score_analysis_1.png                       0.40 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE33000_pj_score_analysis.png
+  pj_hypothesis_summary.png                              0.39 MB
+    原路径: pj_hypothesis_summary.png
+  pj_hypothesis_summary_1.png                            0.39 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/pj_hypothesis_summary.png
+  GSE33000_Network_Propagation_based_validation.png      0.38 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/GSE33000_Network_Propagation_based_validation.png
+  GSE33000_Network_Propagation_based_validation_1.png     0.38 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE33000_Network_Propagation_based_validation.png
+  GSE44770_pj_score_analysis.png                         0.38 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/GSE44770_pj_score_analysis.png
+  GSE44770_pj_score_analysis_1.png                       0.38 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE44770_pj_score_analysis.png
+  GSE33000_Correlation_based_validation.png              0.37 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/GSE33000_Correlation_based_validation.png
+  GSE33000_Correlation_based_validation_1.png            0.37 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE33000_Correlation_based_validation.png
+  GSE44770_Network_Propagation_based_validation.png      0.36 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/GSE44770_Network_Propagation_based_validation.png
+  GSE44770_Network_Propagation_based_validation_1.png     0.36 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE44770_Network_Propagation_based_validation.png
+  GSE44770_Correlation_based_validation.png              0.34 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/GSE44770_Correlation_based_validation.png
+  GSE44770_Correlation_based_validation_1.png            0.34 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE44770_Correlation_based_validation.png
+  pj_hypothesis_gene_network.png                         0.32 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/pj_hypothesis_gene_network.png
+  pj_hypothesis_gene_network_1.png                       0.32 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/pj_hypothesis_gene_network.png
+  GSE33000_bubble_plot.png                               0.19 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/GSE33000_bubble_plot.png
+  GSE33000_bubble_plot_1.png                             0.19 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE33000_bubble_plot.png
+  GSE44770_bubble_plot.png                               0.19 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/GSE44770_bubble_plot.png
+  GSE44770_bubble_plot_1.png                             0.19 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE44770_bubble_plot.png
+  GSE33000_network_propagation.png                       0.17 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/GSE33000_network_propagation.png
+  GSE33000_network_propagation_1.png                     0.17 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE33000_network_propagation.png
+  GSE44770_network_propagation.png                       0.16 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/GSE44770_network_propagation.png
+  GSE44770_network_propagation_1.png                     0.16 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE44770_network_propagation.png
+  GSE33000_gene_mapping_visualization.png                0.15 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/GSE33000_gene_mapping_visualization.png
+  GSE33000_gene_mapping_visualization_1.png              0.15 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE33000_gene_mapping_visualization.png
+  GSE44770_gene_mapping_visualization.png                0.15 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/GSE44770_gene_mapping_visualization.png
+  GSE44770_gene_mapping_visualization_1.png              0.15 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE44770_gene_mapping_visualization.png
+  pj_gene_availability_comparison.png                    0.14 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/pj_gene_availability_comparison.png
+  pj_gene_availability_comparison_1.png                  0.14 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/pj_gene_availability_comparison.png
+  GSE33000_NetworkPropagation_pj_score_comparison.png     0.10 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/GSE33000_NetworkPropagation_pj_score_comparison.png
+  GSE33000_NetworkPropagation_pj_score_comparison_1.png     0.10 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE33000_NetworkPropagation_pj_score_comparison.png
+  GSE33000_pj_score_comparison.png                       0.08 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/GSE33000_pj_score_comparison.png
+  GSE33000_pj_score_comparison_1.png                     0.08 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE33000_pj_score_comparison.png
+  GSE44770_NetworkPropagation_pj_score_comparison.png     0.08 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/GSE44770_NetworkPropagation_pj_score_comparison.png
+  GSE44770_NetworkPropagation_pj_score_comparison_1.png     0.08 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE44770_NetworkPropagation_pj_score_comparison.png
+  GSE44770_pj_score_comparison.png                       0.06 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/01_Images_Visualizations/GSE44770_pj_score_comparison.png
+  GSE44770_pj_score_comparison_1.png                     0.06 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE44770_pj_score_comparison.png
+  GSE44770_feature_importance.csv                        0.01 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/02_Data_Analysis/GSE44770_feature_importance.csv
+  GSE44770_feature_importance_1.csv                      0.01 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE44770_feature_importance.csv
+  GSE33000_feature_importance.csv                        0.01 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/02_Data_Analysis/GSE33000_feature_importance.csv
+  GSE33000_feature_importance_1.csv                      0.01 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE33000_feature_importance.csv
+  GSE33000_gsea_ranking.rnk                              0.01 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE33000_gsea_ranking.rnk
+  GSE44770_gsea_ranking.rnk                              0.01 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/GSE44770_gsea_ranking.rnk
+  pj_expanded_signature.txt                              0.00 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/02_Data_Analysis/pj_expanded_signature.txt
+  pj_expanded_signature_1.txt                            0.00 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/pj_expanded_signature.txt
+  pj_pathways.gmt                                        0.00 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/pj_pathways.gmt
+  pj_pathways_upper.gmt                                  0.00 MB
+    原路径: drive/MyDrive/pj_hypothesis_robust_validation/pj_pathways_upper.gmt
+  pj_validation_index.csv                                0.00 MB
+    原路径: AD_Research_Complete_Package_20251014_105229/02_Data_Analysis/pj_validation_index.csv
+  pj_validation_index_1.csv                              0.00 MB
+    原路径: drive/MyDrive/gse44770_pj_results/pj_validation_index.csv
+
+
+总计: 373 个文件, 2321.97 MB
