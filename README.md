@@ -1,0 +1,1 @@
+This repository contains code exclusively for the peer review of the paper entitled [A Multi-scale Critical Network Hypothesis of Alzheimer’s Disease: Conformational Switch-Driven Positive Feedback Loop and Stratified Therapy]. Unauthorized distribution, modification, or use of this code for purposes other than the specified review process is strictly prohibited.
